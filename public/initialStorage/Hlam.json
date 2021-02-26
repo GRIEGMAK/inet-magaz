@@ -1,0 +1,12 @@
+
+[
+  { "Author": "Admin", "id": 0, "message": "Привет всем!!!", "completed": false},
+  { "Author": "Maria", "id": 1, "message": "Привет", "completed": false},
+  { "Author": "Boris", "id": 2, "message": "Hello", "completed": false},
+  { "Author": "Maria", "id": 3, "message": "Ты что американец?", "completed": false},
+  { "Author": "Boris", "id": 4, "message": "Нет, но английский знаю", "completed": false},
+  { "Author": "yourIdiot", "id": 5, "message": "Как дела у кого?", "completed": false},
+  { "Author": "Admin", "id": 6, "message": "Всё норм, у вас как?", "completed": false},
+  { "Author": "Maria", "id": 7, "message": "Всё ок", "completed": false},
+  { "Author": "Maria", "id": 8, "message": "\uD83D\uDC4C", "completed": false}
+]

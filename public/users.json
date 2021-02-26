@@ -1,0 +1,6 @@
+[
+  {"userName": "Admin", "userId": "000000001", "email": "g.m.ak@yandex.ru", "password": "0"},
+  {"userName": "Maria", "userId": "000000002", "email": "mary.key@yandex.ru", "password": "987654321"},
+  {"userName": "Boris", "userId": "000000003", "email": "borisAd@yandex.ru", "password": "109109109"},
+  {"userName": "yourIdiot", "userId": "000000004", "email": "privettydaty@yandex.ru", "password": "289289289"}
+]
